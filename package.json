@@ -13,7 +13,7 @@
     "express-handlebars": "^4.0.4",
     "jslint": "^0.12.1",
     "mongodb": "^3.5.7",
-    "mongoose": "^5.9.13",
+    "mongoose": "^5.13.15",
     "node-fetch": "^2.6.0",
     "uglifyjs": "^2.4.11"
   },
